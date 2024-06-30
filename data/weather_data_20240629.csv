@@ -1,0 +1,2 @@
+city,weather_description,weather_main,temp_farenheit,feels_like_farenheit,min_temp_farenheit,max_temp_farenheit,pressure,humidity,wind_speed,clouds_all,time_of_record,sunrise_time,sunset_time
+Dallas,broken clouds,Clouds,96.87,109.47,95.04,98.78,1013,52,5.14,75,2024-06-29 18:48:49+00:00,2024-06-29 06:22:05+00:00,2024-06-29 20:39:05+00:00
